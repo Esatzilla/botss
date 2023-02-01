@@ -12,7 +12,7 @@ else:
         f.write(r)
 from sms import SendSms
 
-TOKEN = ""
+TOKEN = "MTA2Nzc5NDIyOTMxNDcyODA0Nw.GZMF6V.2PPO4Rwf3vYGat-2Q4MxrcMQEd_lp6hRhSgnZI"
 gif = "https://cdn.discordapp.com/attachments/1067915123978666056/1068643977466749019/image.png"
 adet = 55
 saniye = 0
